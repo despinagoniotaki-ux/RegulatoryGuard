@@ -52,10 +52,10 @@ RegulatoryGuard AI transitions compliance software from a corporate luxury into 
 
 ## ⚙️ Architecture & IBM Bob 2.0 Implementation
 
-[ Ingest Raw Data (.csv/.xlsx) ]
-1. Math Processing Layer  │ ──► Pure Python calculates exact error delta%
-2. Deterministic JSON Check  │ ──► Hard cross-reference with 'regulatory_rules.json'
-3. Agentic Text Generation   │ ──► Bob 2.0 Subagent builds eCTD-ready narrative
+1. Ingest Raw Data (.csv/.xlsx) 
+2. Math Processing Layer  │ ──► Pure Python calculates exact error delta%
+3. Deterministic JSON Check  │ ──► Hard cross-reference with 'regulatory_rules.json'
+4. Agentic Text Generation   │ ──► Bob 2.0 Subagent builds eCTD-ready narrative
 
 **Strict Math Isolation:** Raw liquid concentration files are evaluated via standard Python libraries to compute precise mathematical variances. The AI is never allowed to run arbitrary math.
 <br><br>
