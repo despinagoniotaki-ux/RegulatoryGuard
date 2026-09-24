@@ -57,9 +57,9 @@ RegulatoryGuard AI transitions compliance software from a corporate luxury into 
 2. Deterministic JSON Check  │ ──► Hard cross-reference with 'regulatory_rules.json'
 3. Agentic Text Generation   │ ──► Bob 2.0 Subagent builds eCTD-ready narrative
 
-1.  **Strict Math Isolation:** Raw liquid concentration files are evaluated via standard Python libraries to compute precise mathematical variances. The AI is never allowed to run arbitrary math.
-2.  **Deterministic Rules Engine:** The calculated delta is checked against a local, auditable configuration file (`regulatory_rules.json`). 
-3.  **Bob 2.0 Cost-Optimized Subagents:** Instead of routing a massive protocol layout to an expensive foundation model, our system leverages **IBM Bob 2.0’s isolated subagent architecture**. A specialized regulatory writing subagent is deployed solely to draft the technical scientific narrative based on the specific rule code triggered. This isolates token compute, ensuring clean execution and robust governance.
+**Strict Math Isolation:** Raw liquid concentration files are evaluated via standard Python libraries to compute precise mathematical variances. The AI is never allowed to run arbitrary math.
+**Deterministic Rules Engine:** The calculated delta is checked against a local, auditable configuration file (`regulatory_rules.json`). 
+**Bob 2.0 Cost-Optimized Subagents:** Instead of routing a massive protocol layout to an expensive foundation model, our system leverages **IBM Bob 2.0’s isolated subagent architecture**. A specialized regulatory writing subagent is deployed solely to draft the technical scientific narrative based on the specific rule code triggered. This isolates token compute, ensuring clean execution and robust governance.
 
 ---
 
