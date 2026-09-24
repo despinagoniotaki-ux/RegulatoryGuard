@@ -71,7 +71,7 @@ RegulatoryGuard AI transitions compliance software from a corporate luxury into 
 *   📁 `process_data.py` — The programmatic calculation layer that tracks and assesses variations.
 *   📁 `regulatory_rules.json` — The deterministic JSON compliance rulebook.
 *   📁 `mock_preclinical_data.csv` — Comprehensive mock datasets tracking concentration shifts.
-*   📁 `IBM_Bob_Development_Report.md` — **[CRITICAL HACKATHON REQUIREMENT]** Full session/task transcript detailing how IBM Bob assisted throughout the development life-cycle.
+*   📁 `IBM_Bob_Development_Report.md` — Full session/task transcript detailing how IBM Bob assisted throughout the development life-cycle.
 
 ---
 
